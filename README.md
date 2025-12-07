@@ -28,7 +28,7 @@ cd crypto-vision
 pip install PyQt5 pandas numpy ta ccxt scikit-learn
 
 # Run application
-python crypto_vision.py
+python crypto-vision.py
 ```
 
 ## Quick Start
