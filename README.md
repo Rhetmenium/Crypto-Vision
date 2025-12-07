@@ -70,7 +70,3 @@ python crypto_vision.py
 Pull requests welcome! For major changes, please open an issue first.
 
 Educational purposes only. Not for commercial use.
-
----
-
-**Made with ❤️ for the crypto community**
